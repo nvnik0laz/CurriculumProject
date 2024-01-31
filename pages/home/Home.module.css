@@ -1,0 +1,6 @@
+.cabecalho {
+	display: flex;
+	padding: 0px 100px 0px 100px;
+	justify-content: space-around;
+    background-color: red;
+}
